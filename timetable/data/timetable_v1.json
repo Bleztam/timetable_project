@@ -1,0 +1,137 @@
+{
+  "version": 1,
+  "grades": {
+    "9": {
+      "A": {
+        "Monday": ["Math", "English", "Science", "History", "Art"],
+        "Tuesday": ["English", "Math", "Biology", "Chemistry", "PE"],
+        "Wednesday": ["Physics", "Math", "English", "Geography", "Art"],
+        "Thursday": ["Math", "History", "English", "Biology", "Chemistry"],
+        "Friday": ["English", "Physics", "Math", "PE", "Art"]
+      },
+      "B": {
+        "Monday": ["Math", "History", "Chemistry", "English", "Art"],
+        "Tuesday": ["English", "Math", "Physics", "Biology", "PE"],
+        "Wednesday": ["Math", "English", "Science", "History", "Art"],
+        "Thursday": ["English", "Physics", "Geography", "Biology", "Chemistry"],
+        "Friday": ["Math", "English", "History", "PE", "Art"]
+      },
+      "C": {         "Monday": ["Math", "English", "Science", "History", "Art"],
+      "Tuesday": ["English", "Math", "Biology", "Chemistry", "PE"],
+      "Wednesday": ["Physics", "Math", "English", "Geography", "Art"],
+      "Thursday": ["Math", "History", "English", "Biology", "Chemistry"],
+      "Friday": ["English", "Physics", "Math", "PE", "Art"] 
+    },
+      "D": {         "Monday": ["Math", "English", "Science", "History", "Art"],
+      "Tuesday": ["English", "Math", "Biology", "Chemistry", "PE"],
+      "Wednesday": ["Physics", "Math", "English", "Geography", "Art"],
+      "Thursday": ["Math", "History", "English", "Biology", "Chemistry"],
+      "Friday": ["English", "Physics", "Math", "PE", "Art"] 
+    },
+      "E": {         "Monday": ["Math", "English", "Science", "History", "Art"],
+      "Tuesday": ["English", "Math", "Biology", "Chemistry", "PE"],
+      "Wednesday": ["Physics", "Math", "English", "Geography", "Art"],
+      "Thursday": ["Math", "History", "English", "Biology", "Chemistry"],
+      "Friday": ["English", "Physics", "Math", "PE", "Art"] 
+    }
+    },
+    "10": {
+      "A": {
+        "Monday": ["Math", "English", "Science", "History", "Art"],
+        "Tuesday": ["English", "Math", "Biology", "Chemistry", "PE"],
+        "Wednesday": ["Physics", "Math", "English", "Geography", "Art"],
+        "Thursday": ["Math", "History", "English", "Biology", "Chemistry"],
+        "Friday": ["English", "Physics", "Math", "PE", "Art"]
+      },
+      "B": {
+        "Monday": ["Math", "History", "Chemistry", "English", "Art"],
+        "Tuesday": ["English", "Math", "Physics", "Biology", "PE"],
+        "Wednesday": ["Math", "English", "Science", "History", "Art"],
+        "Thursday": ["English", "Physics", "Geography", "Biology", "Chemistry"],
+        "Friday": ["Math", "English", "History", "PE", "Art"]
+      },
+      "C": {         "Monday": ["Math", "English", "Science", "History", "Art"],
+      "Tuesday": ["English", "Math", "Biology", "Chemistry", "PE"],
+      "Wednesday": ["Physics", "Math", "English", "Geography", "Art"],
+      "Thursday": ["Math", "History", "English", "Biology", "Chemistry"],
+      "Friday": ["English", "Physics", "Math", "PE", "Art"] 
+    },
+      "D": {         "Monday": ["Math", "English", "Science", "History", "Art"],
+      "Tuesday": ["English", "Math", "Biology", "Chemistry", "PE"],
+      "Wednesday": ["Physics", "Math", "English", "Geography", "Art"],
+      "Thursday": ["Math", "History", "English", "Biology", "Chemistry"],
+      "Friday": ["English", "Physics", "Math", "PE", "Art"] 
+    },
+      "E": {         "Monday": ["Math", "English", "Science", "History", "Art"],
+      "Tuesday": ["English", "Math", "Biology", "Chemistry", "PE"],
+      "Wednesday": ["Physics", "Math", "English", "Geography", "Art"],
+      "Thursday": ["Math", "History", "English", "Biology", "Chemistry"],
+      "Friday": ["English", "Physics", "Math", "PE", "Art"] 
+    }
+    },
+    "11": { "A": {
+        "Monday": ["Math", "English", "Science", "History", "Art"],
+        "Tuesday": ["English", "Math", "Biology", "Chemistry", "PE"],
+        "Wednesday": ["Physics", "Math", "English", "Geography", "Art"],
+        "Thursday": ["Math", "History", "English", "Biology", "Chemistry"],
+        "Friday": ["English", "Physics", "Math", "PE", "Art"]
+      },
+      "B": {
+        "Monday": ["Math", "History", "Chemistry", "English", "Art"],
+        "Tuesday": ["English", "Math", "Physics", "Biology", "PE"],
+        "Wednesday": ["Math", "English", "Science", "History", "Art"],
+        "Thursday": ["English", "Physics", "Geography", "Biology", "Chemistry"],
+        "Friday": ["Math", "English", "History", "PE", "Art"]
+      },
+      "C": {         "Monday": ["Math", "English", "Science", "History", "Art"],
+      "Tuesday": ["English", "Math", "Biology", "Chemistry", "PE"],
+      "Wednesday": ["Physics", "Math", "English", "Geography", "Art"],
+      "Thursday": ["Math", "History", "English", "Biology", "Chemistry"],
+      "Friday": ["English", "Physics", "Math", "PE", "Art"] 
+    },
+      "D": {         "Monday": ["Math", "English", "Science", "History", "Art"],
+      "Tuesday": ["English", "Math", "Biology", "Chemistry", "PE"],
+      "Wednesday": ["Physics", "Math", "English", "Geography", "Art"],
+      "Thursday": ["Math", "History", "English", "Biology", "Chemistry"],
+      "Friday": ["English", "Physics", "Math", "PE", "Art"] 
+    },
+      "E": {         "Monday": ["Math", "English", "Science", "History", "Art"],
+      "Tuesday": ["English", "Math", "Biology", "Chemistry", "PE"],
+      "Wednesday": ["Physics", "Math", "English", "Geography", "Art"],
+      "Thursday": ["Math", "History", "English", "Biology", "Chemistry"],
+      "Friday": ["English", "Physics", "Math", "PE", "Art"] 
+    } },
+    "12": { "A": {
+        "Monday": ["Math", "English", "Science", "History", "Art"],
+        "Tuesday": ["English", "Math", "Biology", "Chemistry", "PE"],
+        "Wednesday": ["Physics", "Math", "English", "Geography", "Art"],
+        "Thursday": ["Math", "History", "English", "Biology", "Chemistry"],
+        "Friday": ["English", "Physics", "Math", "PE", "Art"]
+      },
+      "B": {
+        "Monday": ["Math", "History", "Chemistry", "English", "Art"],
+        "Tuesday": ["English", "Math", "Physics", "Biology", "PE"],
+        "Wednesday": ["Math", "English", "Science", "History", "Art"],
+        "Thursday": ["English", "Physics", "Geography", "Biology", "Chemistry"],
+        "Friday": ["Math", "English", "History", "PE", "Art"]
+      },
+      "C": {         "Monday": ["Math", "English", "Science", "History", "Art"],
+      "Tuesday": ["English", "Math", "Biology", "Chemistry", "PE"],
+      "Wednesday": ["Physics", "Math", "English", "Geography", "Art"],
+      "Thursday": ["Math", "History", "English", "Biology", "Chemistry"],
+      "Friday": ["English", "Physics", "Math", "PE", "Art"] 
+    },
+      "D": {         "Monday": ["Math", "English", "Science", "History", "Art"],
+      "Tuesday": ["English", "Math", "Biology", "Chemistry", "PE"],
+      "Wednesday": ["Physics", "Math", "English", "Geography", "Art"],
+      "Thursday": ["Math", "History", "English", "Biology", "Chemistry"],
+      "Friday": ["English", "Physics", "Math", "PE", "Art"] 
+    },
+      "E": {         "Monday": ["Math", "English", "Science", "History", "Art"],
+      "Tuesday": ["English", "Math", "Biology", "Chemistry", "PE"],
+      "Wednesday": ["Physics", "Math", "English", "Geography", "Art"],
+      "Thursday": ["Math", "History", "English", "Biology", "Chemistry"],
+      "Friday": ["English", "Physics", "Math", "PE", "Art"] 
+    } }
+  }
+}
